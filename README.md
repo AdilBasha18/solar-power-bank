@@ -71,9 +71,9 @@ This project delivers a **sustainable, portable energy solution** for everyday a
 
 ## 📸 Prototype Images
 
-| Front View | Side View |
-|------------|-----------|
-| ![Front View](./c25ef6a7-0037-48c9-8fa8-7e52a74958ed.png) | ![Side View](./64955b0f-65e6-4b3c-8884-31c27c46191d.png) |
+![Front View](images/prototype_front.png)
+![Side View](images/prototype_side.png)
+
 
 ---
 
